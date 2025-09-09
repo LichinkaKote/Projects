@@ -6,5 +6,5 @@
 Игры:
 1) 2020г. [Ракета](https://github.com/LichinkaKote/RocketGameWebGL/), простенькая игра созданная для портфолио.
 
-На данный момент 2023г делаю вторую [игру](https://lichinkakote.itch.io/owlstrike) покрупнее, чтобы дополнить список игр.<br/>
-[генератор уровней](https://lichinkakote.github.io/GeneratorWFC/) для новой игры.<br/>
+2) 2024г [Owlstrike](https://lichinkakote.itch.io/owlstrike) игра побольше.<br/>
+[генератор уровней WFC](https://lichinkakote.github.io/GeneratorWFC/).<br/>
